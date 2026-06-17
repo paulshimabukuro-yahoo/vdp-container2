@@ -1,0 +1,9 @@
+﻿# REQUIRES-PROPERTIES-FILE - # Do not remove this comment!
+CREATE OR REPLACE DATASOURCE DF ds_customer
+    FOLDER = '/01 - connectivity/01 - data sources'
+    ROUTE LOCAL 'LocalConnection' '${databases.git_demo.folder.01 - connectivity.folder.01 - data sources.datasources.df.ds_customer.ROUTE.LOCAL.PATH}' URIPATTERN = '' FILENAMEPATTERN = ''
+    CHARSET = 'UTF-8'
+    COLUMNDELIMITER = ','
+    ENDOFLINEDELIMITER = '\n'
+    HEADER = TRUE;
+
