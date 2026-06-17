@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/08 - Stored Procedures' DESCRIPTION 'This folder stores Stored procedures' ;
+

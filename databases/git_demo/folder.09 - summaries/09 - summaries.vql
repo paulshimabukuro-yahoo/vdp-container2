@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/09 - Summaries' DESCRIPTION 'This folder stores Summaries' ;
+

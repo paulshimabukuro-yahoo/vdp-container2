@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/06 - Associations' DESCRIPTION 'This folder stores associations.' ;
+

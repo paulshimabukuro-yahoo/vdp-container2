@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/01 - connectivity/02 - Base Views' DESCRIPTION 'This folder stores the base views of the project' ;
+

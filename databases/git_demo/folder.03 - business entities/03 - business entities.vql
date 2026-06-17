@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/03 - Business Entities' DESCRIPTION 'The interfaces representing the business entities will be stored at this level. Additional subfolders can be added. The implementation views, since they are not going to be directly accessed by the client application, can remain in the integration level.' ;
+

@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/01 - Connectivity' DESCRIPTION 'This folder stores the data sources and base views of the project' ;
+

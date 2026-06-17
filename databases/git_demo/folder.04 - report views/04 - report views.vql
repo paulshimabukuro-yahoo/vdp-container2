@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/04 - Report Views' DESCRIPTION 'Interfaces representing the pre-built reports published to final application will be stored in this folder.' ;
+

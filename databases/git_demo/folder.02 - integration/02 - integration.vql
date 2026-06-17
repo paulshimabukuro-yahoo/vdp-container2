@@ -1,0 +1,2 @@
+﻿CREATE OR REPLACE FOLDER '/02 - Integration' DESCRIPTION 'The integration views created for combining the different base views are stored in this folder' ;
+
